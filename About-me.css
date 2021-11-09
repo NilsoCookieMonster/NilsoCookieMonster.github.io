@@ -1,0 +1,150 @@
+ .u-section-1 {
+  background-image: url("images/cloud6.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 883px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 132px;
+  height: 35px;
+  transition-duration: 0.5s;
+  animation-duration: 1000ms;
+  margin: 211px 235px 0 auto;
+}
+
+.u-section-1 .u-image-2 {
+  width: 194px;
+  height: 35px;
+  transition-duration: 0.5s;
+  animation-duration: 1000ms;
+  margin: -35px 0 0 auto;
+}
+
+.u-section-1 .u-image-3 {
+  width: 204px;
+  height: 36px;
+  transition-duration: 0.5s;
+  margin: 19px 0 0 auto;
+}
+
+.u-section-1 .u-image-4 {
+  width: 585px;
+  height: 88px;
+  transition-duration: 0.5s;
+  animation-duration: 1000ms;
+  margin: 80px auto 0 278px;
+}
+
+.u-section-1 .u-image-5 {
+  width: 708px;
+  height: 83px;
+  margin: 88px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 728px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: 22px;
+    margin-right: -17px;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-top: 77px;
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 700px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 673px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: 23px;
+  }
+
+  .u-section-1 .u-image-4 {
+    width: 540px;
+    height: 81px;
+    margin-top: 76px;
+  }
+
+  .u-section-1 .u-image-5 {
+    width: 540px;
+    height: 63px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 620px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: 208px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: 27px;
+  }
+
+  .u-section-1 .u-image-4 {
+    width: 340px;
+    height: 51px;
+    margin-top: 72px;
+  }
+
+  .u-section-1 .u-image-5 {
+    width: 340px;
+    height: 40px;
+  }
+}
+
+.u-section-1 .u-image-4 {
+  transition-property: fill, color, background-image, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform !important;
+}
+
+.u-section-1 .u-image-4:hover {
+  transform: scale(1.18) !important;
+}
+
+.u-section-1 .u-image-1 {
+  transition-property: fill, color, background-image, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform !important;
+}
+
+.u-section-1 .u-image-1:hover {
+  transform: scale(1.2) !important;
+}
+
+.u-section-1 .u-image-2 {
+  transition-property: fill, color, background-image, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform !important;
+}
+
+.u-section-1 .u-image-2:hover {
+  transform: scale(1.2) !important;
+  opacity: 1 !important;
+}
+
+.u-section-1 .u-image-3 {
+  transition-property: fill, color, background-image, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform !important;
+}
+
+.u-section-1 .u-image-3:hover {
+  transform: scale(1.18) !important;
+}

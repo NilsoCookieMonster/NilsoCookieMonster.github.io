@@ -1,0 +1,289 @@
+ .u-section-1 {
+  background-image: url("images/cloud6.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1040px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 539px;
+  min-height: 348px;
+  animation-duration: 1250ms;
+  margin: 112px -58px 0 auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 375px;
+  height: 34px;
+  margin: 27px 49px 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: MinecraftRegular-Bmg3;
+  margin: 62px 70px 0 123px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  font-family: MinecraftRegular-Bmg3;
+  padding: 0;
+}
+
+.u-section-1 .u-image-2 {
+  width: 423px;
+  height: 423px;
+  animation-duration: 1000ms;
+  background-image: url("images/nilsobrickheadz1.png");
+  background-position: 50% 50%;
+  transition-duration: 0.5s;
+  margin: -385px auto 0 340px;
+}
+
+.u-section-1 .u-image-3 {
+  width: 460px;
+  height: 121px;
+  transition-duration: 0.5s;
+  animation-duration: 1000ms;
+  margin: 70px 309px 0 auto;
+}
+
+.u-section-1 .u-image-4 {
+  width: 197px;
+  height: 36px;
+  animation-duration: 1000ms;
+  object-position: 0% 50%;
+  transition-duration: 0.5s;
+  margin: 123px auto 0 256px;
+}
+
+.u-section-1 .u-image-5 {
+  width: 242px;
+  height: 36px;
+  animation-duration: 1000ms;
+  object-position: 0% 50%;
+  transition-duration: 0.5s;
+  margin: -36px 255px 0 auto;
+}
+
+.u-section-1 .u-image-6 {
+  width: 197px;
+  height: 35px;
+  transition-duration: 0.5s;
+  margin: 27px auto 60px 256px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 999px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 216px;
+    margin-right: 20px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -392px;
+    margin-left: 60px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: 60px;
+    margin-right: auto;
+    margin-left: 60px;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-top: 62px;
+    margin-right: 361px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-5 {
+    margin-top: -33px;
+    margin-right: 49px;
+  }
+
+  .u-section-1 .u-image-6 {
+    margin-top: -37px;
+    margin-left: 110px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 937px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 210px;
+    margin-right: -50px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -385px;
+    margin-left: -88px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: 55px;
+    margin-left: -27px;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-top: 55px;
+    margin-right: 49px;
+  }
+
+  .u-section-1 .u-image-5 {
+    margin-top: -36px;
+    margin-right: auto;
+    margin-left: 177px;
+  }
+
+  .u-section-1 .u-image-6 {
+    margin-top: -33px;
+    margin-left: -41px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1006px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 403px;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -751px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: 243px;
+    margin-right: 12px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-top: 95px;
+    margin-right: -9px;
+  }
+
+  .u-section-1 .u-image-5 {
+    margin-left: 61px;
+  }
+
+  .u-section-1 .u-image-6 {
+    margin-top: 12px;
+    margin-bottom: 41px;
+    margin-left: 73px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1004px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 382px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 31px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -730px;
+    margin-left: -50px;
+  }
+
+  .u-section-1 .u-image-3 {
+    height: 89px;
+    margin-top: 297px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-top: 19px;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-image-5 {
+    margin-top: 16px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-6 {
+    margin-top: 19px;
+    margin-bottom: 34px;
+    margin-left: 63px;
+  }
+}
+
+.u-section-1 .u-image-3 {
+  transition-property: fill, color, background-image, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform !important;
+}
+
+.u-section-1 .u-image-3:hover {
+  transform: translateX(0px) translateY(5px) scale(1.14) !important;
+}
+
+.u-section-1 .u-image-4 {
+  transition-property: fill, color, background-image, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform !important;
+}
+
+.u-section-1 .u-image-4:hover {
+  transform: scale(1.13) rotate(0deg) !important;
+}
+
+.u-section-1 .u-image-5 {
+  transition-property: fill, color, background-image, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform !important;
+}
+
+.u-section-1 .u-image-5:hover {
+  transform: scale(1.13) rotate(0deg) !important;
+}
+
+.u-section-1 .u-image-2 {
+  transition-property: fill, color, background-image, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform !important;
+}
+
+.u-section-1 .u-image-2:hover {
+  transform: scale(1.04) !important;
+}
+
+.u-section-1 .u-image-6 {
+  transition-property: fill, color, background-image, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform !important;
+}
+
+.u-section-1 .u-image-6:hover {
+  transform: scale(1.2) !important;
+}@font-face {
+  font-family: 'MinecraftRegular-Bmg3';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/MinecraftRegular-Bmg3.otf);
+}
